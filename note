@@ -1,0 +1,81 @@
+idwinkel
+winkeladres
+winkelhuisnummer
+winkelpostcode
+winkelplaats
+winkeltelefoonnummer
+winkelemail
+
+idklant
+klantvoornaam
+klanttussenvoegsel
+klantacternaam
+klantgeboortedatum
+klantadres
+klanthuisnummer
+klantpostcode
+klantplaats
+klanttelefoonnummer
+klantemail
+
+idmedewerker
+medewerkervoornaam
+medewerkertussenvoegsel
+medewerkerachternaam
+
+idartikel
+artikelomschrijving
+prijs
+
+bestelling
+
+
+factuurnummer
+datum
+aantal
+afgehandeld
+
+-----------------------------------------
+INDEX BOEKETTEN
+
+<!--Boeketten-->
+<!--    <div class="row mt-4">-->
+<!--        --><?php
+//
+//        if ($all_bouquets != null) {
+//            foreach ($all_bouquets as $bouquet) {
+//                ?>
+<!--                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 d-flex align-items-stretch mb-2">-->
+<!--                    <div class="card card border-0"  style="width: 18rem;">-->
+<!--                        <a href="product.php"><img src="../--><?//= $bouquet->img_url ?><!--" class="card-img-top" alt="..."></a>-->
+<!--                        <div class="card-body">-->
+<!--                            <form action="bouquets.php?addToCart&id=--><?//= $bouquet->idProduct ?><!--" method="post">-->
+<!--                                <h5 class="card-title">--><?//= $bouquet->naam ?><!--</h5>-->
+<!--                                <h5 class="card-title">--><?//= str_replace(".", ",", $bouquet->prijs) ?><!--</h5>-->
+<!--                                <p class="card-text">= $bouquet->omschrijving ?><--</p>-->
+
+<!--                                <div class="form-row">-->
+<!--                                    <input type="hidden" value="--><?//= $bouquet->naam ?><!--" name="product">-->
+<!--                                    <input type="hidden" value="--><?//= $bouquet->prijs ?><!--" name="price">-->
+<!--                                    <div class="col-4 mb-2">-->
+<!--                                        <input type="number" class="form-control" name="amount" required>-->
+<!--                                    </div>-->
+<!--                                    <div class="col-6">-->
+<!--                                        <button type="submit" class="btn btn-primary">Voeg toe</button>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </form>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!---->
+<!--                --><?php
+//            }
+//        } else {
+//            ?>
+<!--            <div>Er zijn geen boeketten meer! Jammer.</div>-->
+<!--            --><?php
+//
+//        }
+//        ?>
+<!--    </div>-->
