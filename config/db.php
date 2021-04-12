@@ -26,5 +26,7 @@ class db
 
         return $this->connection;
 
+        // test github
+
     }
 }
