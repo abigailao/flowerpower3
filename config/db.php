@@ -8,9 +8,9 @@ class db
     function getConnection()
     {
 //db currently not the right one
-        $dsn = "mysql:host=localhost;dbname=flowerpower";
-        $user = "root";
-        $passwd = "1111";
+        $dsn = "mysql:host=localhost;dbname=deb7255_abigail";
+        $user = "deb7255_abigail";
+        $passwd = "0ranjeGro3nP@ars";
 
         try {
             $this->connection = new PDO($dsn, $user, $passwd);
