@@ -116,7 +116,7 @@ session_start();
                             <a class="nav-link" href="../public/rouwbloemen.php">Rouwbloemen</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="../klantAccount.php">Account</a>
+                            <a class="nav-link" href="../public/klantAccount.php">Account</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="cart.php">Winkelwagen</a>

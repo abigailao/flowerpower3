@@ -60,10 +60,10 @@ class bouquetController
 
             $stmt->execute();
 
-            $success = "Is gelukt! joh!";
+            $success = "Het product is toegevoegd!";
 
         }catch (Exception $e){
-            $success = "Is niet gelukt, joh";
+            $success = "Het product is niet toegevoegd";
         }
 
         return $success;

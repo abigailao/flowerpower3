@@ -101,6 +101,5 @@ if (isset($_GET['delete'])) {
         </tbody>
     </table>
 </div>
-<script type="text/javascript" src="stomProductEdit.js"></script>
 
 <?php include('../public/layout/footer.php'); ?>

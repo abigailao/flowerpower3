@@ -1,30 +1,46 @@
 <?php
 include "../public/layout/header.php";
+include "../controllers/RegisterController.php";
 include "../controllers/AccountController.php";
 
-
-$account = new AccountController();
-
-$klant = $account->getCustomer($_SESSION['user_id']);
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $fname = trim($_POST['fname']);
-    $prefix = trim($_POST['tussenvoegsel']);
-    $lname = trim($_POST['lname']);
-    $address = trim($_POST['address']);
-    $housenumber = trim($_POST['housenumber']);
-    $zipcode = trim($_POST['zipcode']);
-    $city = trim($_POST['city']);
-    $phone = trim($_POST['phone']);
-    $email = trim($_POST['email']);
-    $id = trim($_POST['id']);
+    $register = new registerController();
 
-    $account->updateCustomer($id, $fname, $prefix, $lname, $address, $housenumber, $zipcode, $city, $phone, $email);
+    $fname = trim($_POST['fname']);
+    $lname = trim($_POST['lname']);
+    $email = trim($_POST['email']);
+    $password = trim($_POST['password']);
+    $confirmpassword = trim($_POST['confirmpassword']);
+
+
+    $isValid = $register->isUserValid($fname,$lname,$email,$password,$confirmpassword);
+
+    if($isValid){
+        $userExists = $register->ifUserExists($email);
+
+        if (!$userExists){
+            $isSucces = $register->registerUser($fname,$lname,$email,$password);
+            if ($isSucces){
+                $success_message = "Gebruiker is aangemaakt! Veel winkel plezier!";
+            }else{
+                $error_message = "Helaas! Deze gebruiker bestaat al!";
+            }
+        }else{
+            $error_message = "Helaas! Deze gebruiker bestaat al!";
+        }
+    }
+
 
 }
 
 //dddd
 
 ?>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Klant Registreren</title>
+</head>
 <body>
 <div class='container'>
     <div class='row'>
@@ -32,14 +48,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <h2></h2>
         </div>
 
-        <div class='col-md-6'>
+        <div class='col-md-6' >
             <!--Form-->
             <form method='post' action=''>
 
-                <h1>Account</h1>
+                <h1>Registreren</h1>
                 <?php
                 // Display Error message
-                if (!empty($error_message)) {
+                if(!empty($error_message)){
                     ?>
                     <div class="alert alert-danger">
                         <strong>Error!</strong> <?= $error_message ?>
@@ -51,7 +67,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
                 <?php
                 // Display Success message
-                if (!empty($success_message)) {
+                if(!empty($success_message)){
                     ?>
                     <div class="alert alert-success">
                         <strong>Success!</strong> <?= $success_message ?>
@@ -59,63 +75,31 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
                     <?php
                 }
-
-                if (!empty($klant)) {
-                    ?>
-                    <div class="form-group">
-                        <input type="hidden" name="id" id="id" required="required" value="<?= $klant->idKlant ?>">
-                    </div>
-                    <div class="form-group">
-                        <label for="fname">Voornaam</label>
-                        <input type="text" class="form-control" name="fname" id="fname" required="required"
-                               maxlength="80" value="<?= $klant->voornaam ?>">
-                    </div>
-                    <div class="form-group">
-                        <label for="tussenvoegsel">Tussenvoegsel</label>
-                        <input type="text" class="form-control" name="tussenvoegsel" id="tussenvoegsel"
-                                maxlength="80" value="<?= $klant->tussenvoegsel ?>">
-                    </div>
-                    <div class="form-group">
-                        <label for="lname">Achternaam</label>
-                        <input type="text" class="form-control" name="lname" id="lname" required="required"
-                               maxlength="80" value="<?= $klant->achternaam ?>">
-                    </div>
-                    <div class="form-group">
-                        <label for="email">Email address</label>
-                        <input type="email" class="form-control" name="email" id="email" required="required"
-                               maxlength="80" value="<?= $klant->email ?>">
-                    </div>
-                    <div class="form-group">
-                        <label for="address">adres</label>
-                        <input type="text" class="form-control" name="address" id="address"
-                               maxlength="80" value="<?= $klant->adres ?>">
-                    </div>
-                    <div class="form-group">
-                        <label for="housenumber">huisnummer</label>
-                        <input type="number" class="form-control" name="housenumber" id="housenumber"
-                                maxlength="80" value="<?= $klant->huisnummer ?>">
-                    </div>
-                    <div class="form-group">
-                        <label for="zipcode">postcode</label>
-                        <input type="text" class="form-control" name="zipcode" id="zipcode"
-                               maxlength="80" value="<?= $klant->postcode ?>">
-                    </div>
-                    <div class="form-group">
-                        <label for="city">plaats</label>
-                        <input type="text" class="form-control" name="city" id="city"  maxlength="80"
-                               value="<?= $klant->plaats ?>">
-                    </div>
-                    <div class="form-group">
-                        <label for="phone">telefoon</label>
-                        <input type="number" class="form-control" name="phone" id="phone"
-                               maxlength="80" value="<?= $klant->telefoon ?>">
-                    </div>
-
-                    <?php
-                }
                 ?>
-                <button style="background-color: #c45832;" type="submit" class="btn btn-primary mt-2 border-0">Update
-                </button>
+
+                <div class="form-group">
+                    <label for="fname">Voornaam</label>
+                    <input type="text" class="form-control" name="fname" id="fname" required="required" maxlength="80" placeholder='<?= $fname ?>'>
+                </div>
+                <div class="form-group">
+                    <label for="lname">Achternaam</label>
+                    <input type="text" class="form-control" name="lname" id="lname" required="required" maxlength="80" placeholder="Achternaam">
+                </div>
+                <div class="form-group">
+                    <label for="email">Email address</label>
+                    <input type="email" class="form-control" name="email" id="email" required="required" maxlength="80" placeholder="Email address">
+                </div>
+                <div class="form-group">
+                    <label for="password">Wachtwoord</label>
+                    <input type="password" class="form-control" name="password" id="password" required="required" maxlength="80" placeholder="Wachtwoord">
+                </div>
+                <div class="form-group">
+                    <label for="pwd">Wachtwoord herhalen</label>
+                    <input type="password" class="form-control" name="confirmpassword" id="confirmpassword" required="required" maxlength="80" placeholder="Wachtwoord herhalen">
+                </div>
+
+                <!--                <button type="submit" name="btnsignup" class="btnForm">Submit</button>-->
+                <button style="background-color: #c45832;" type="submit" class="btn btn-primary mt-2 border-0">Update</button>
             </form>
         </div>
 

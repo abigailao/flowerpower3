@@ -2,7 +2,7 @@
 include "../public/layout/header.php";
 include "../controllers/LoginController.php";
 
-
+//login als klant
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $login = new loginController();
 
@@ -14,7 +14,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $error = $login->loginUser($uname, $password);
     }
 }
-
+//login als medewerker
 if ($_SERVER["REQUEST_METHOD"] == "POST"){
     $login = new loginController();
 
@@ -26,7 +26,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
         $error = $login->loginEmployee($uname, $password);
     }
 }
-
+//login als admin
 if ($_SERVER["REQUEST_METHOD"] == "POST"){
     $login = new loginController();
 

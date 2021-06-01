@@ -11,6 +11,10 @@ class db
         $user = "deb7255_abigail";
         $passwd = "0ranjeGro3nP@ars";
 
+//        $dsn = "mysql:host=localhost;dbname=flowerpower";
+//        $user = "root";
+//        $passwd = "1234";
+
         try {
             $this->connection = new PDO($dsn, $user, $passwd);
 
