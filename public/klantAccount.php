@@ -39,7 +39,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klant Registreren</title>
+    <title>Klant Account</title>
 </head>
 <body>
 <div class='container'>
@@ -52,7 +52,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <!--Form-->
             <form method='post' action=''>
 
-                <h1>Registreren</h1>
+                <h1>Klant Account</h1>
                 <?php
                 // Display Error message
                 if(!empty($error_message)){
@@ -77,29 +77,52 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 }
                 ?>
 
-                <div class="form-group">
-                    <label for="fname">Voornaam</label>
-                    <input type="text" class="form-control" name="fname" id="fname" required="required" maxlength="80" placeholder='<?= $fname ?>'>
-                </div>
-                <div class="form-group">
-                    <label for="lname">Achternaam</label>
-                    <input type="text" class="form-control" name="lname" id="lname" required="required" maxlength="80" placeholder="Achternaam">
-                </div>
-                <div class="form-group">
-                    <label for="email">Email address</label>
-                    <input type="email" class="form-control" name="email" id="email" required="required" maxlength="80" placeholder="Email address">
-                </div>
-                <div class="form-group">
-                    <label for="password">Wachtwoord</label>
-                    <input type="password" class="form-control" name="password" id="password" required="required" maxlength="80" placeholder="Wachtwoord">
-                </div>
-                <div class="form-group">
-                    <label for="pwd">Wachtwoord herhalen</label>
-                    <input type="password" class="form-control" name="confirmpassword" id="confirmpassword" required="required" maxlength="80" placeholder="Wachtwoord herhalen">
-                </div>
-
-                <!--                <button type="submit" name="btnsignup" class="btnForm">Submit</button>-->
-                <button style="background-color: #c45832;" type="submit" class="btn btn-primary mt-2 border-0">Update</button>
+<!--                <div class="form-group">-->
+<!--                    <label for="fname">Voornaam</label>-->
+<!--                    <input type="text" class="form-control" name="fname" id="fname" required="required" maxlength="80" placeholder='--><//= $fname ?><!--'>-->
+<!--                </div>-->
+            <div class="form-group">
+                <label for="fname">Voornaam</label>
+                <input type="text" class="form-control" name="fname" id="fname" required="required" maxlength="80" placeholder="Jann">
+            </div>
+            <div class="form-group">
+                <label for="fname">Tussenvoegsel</label>
+                <input type="text" class="form-control" name="tussenvoegsel" id="tussenvoegsel" maxlength="80" placeholder="">
+            </div>
+            <div class="form-group">
+                <label for="lname">Achternaam</label>
+                <input type="text" class="form-control" name="lname" id="lname" required="required" maxlength="80" placeholder="Alleman">
+            </div>
+            <div class="form-group">
+                <label for="lname">Adres</label>
+                <input type="text" class="form-control" name="adres" id="adres" required="required" maxlength="80" placeholder="Kipperstraat">
+            </div>
+            <div class="form-group">
+                <label for="lname">Huisnummer</label>
+                <input type="number" class="form-control" name="hnumber" id="hnumber" required="required" maxlength="80" placeholder="27">
+            </div>
+            <div class="form-group">
+                <label for="lname">Postcode</label>
+                <input type="text" class="form-control" name="zipcode" id="zipcode" required="required" maxlength="80" placeholder="4222BF">
+            </div>
+            <div class="form-group">
+                <label for="lname">Plaats</label>
+                <input type="text" class="form-control" name="plaats" id="plaats" required="required" maxlength="80" placeholder="Groningen">
+            </div>
+            <div class="form-group">
+                <label for="email">Email address</label>
+                <input type="email" class="form-control" name="email" id="email" required="required" maxlength="80" placeholder="jan@example.nl">
+            </div>
+            <div class="form-group">
+                <label for="lname">Telefoon</label>
+                <input type="number" class="form-control" name="phone" id="phone"  maxlength="80" placeholder="0645667787">
+            </div>
+            <div class="form-group">
+                <label for="password">Wachtwoord</label>
+                <input type="password" class="form-control" name="password" id="password" required="required" maxlength="80" placeholder="****">
+            </div>
+            <!--                <button type="submit" name="btnsignup" class="btnForm">Submit</button>-->
+            <button style="background-color: #c45832;" type="submit" class="btn btn-primary mt-2 border-0">Update</button>
             </form>
         </div>
 

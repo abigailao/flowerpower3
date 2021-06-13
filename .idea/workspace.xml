@@ -20,18 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="074f6639-ba93-444d-a44d-d683e2bdb5f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Portfolio/public/kerntaak1-1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/desk.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/db.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/db.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/BouquetController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/BouquetController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/LoginController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/uploaded/1617821916.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/uploaded/1617822028.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/uploaded/1617822110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note" beforeDir="false" afterPath="$PROJECT_DIR$/note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/contact.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/klantAccount.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/klantAccount.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/layout/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/layout/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/orderDetails.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/orderDetails.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/productWijzigen.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/productWijzigen.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,12 +49,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Portfolio/public" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\flowerpower3\Portfolio\img\flowerPowerVideo" />
+      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\flowerpower3\Portfolio\img" />
+      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\flowerpower3\img" />
       <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\flowerPower2.1.1\flowerPower2.1\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\flowerpower3\Portfolio\public" />
+      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\flowerpower3\img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -77,7 +80,12 @@
       <workItem from="1618416487110" duration="179000" />
       <workItem from="1622293340900" duration="3305000" />
       <workItem from="1622388089728" duration="596000" />
-      <workItem from="1622473634079" duration="14914000" />
+      <workItem from="1622473634079" duration="16590000" />
+      <workItem from="1622535696475" duration="1130000" />
+      <workItem from="1622591306762" duration="1959000" />
+      <workItem from="1623172931807" duration="898000" />
+      <workItem from="1623274476035" duration="24402000" />
+      <workItem from="1623317749194" duration="3183000" />
     </task>
     <servers />
   </component>
@@ -97,10 +105,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1617927516407">
+    <state x="1195" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623321052321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617927516407" />
+    <state x="1195" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1623321052321" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1623279110180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623279110180" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1623319200047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623319200047" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1618217377342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a855df82-4a84-41c8-a971-3ef3900f4f40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BTemplate/.idea/SHOPPINGCART.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Completed/jschallenge-master/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Completed/jschallenge-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Completed/jschallenge-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Completed/jschallenge-master/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/HTML/.idea/HTML.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/HTML/001 Ontwikkelomgeving/Hello World.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/HTML/002 HTML-Tags/Homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/HTML/002 HTML-Tags/Memory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/HTML/002 HTML-Tags/Opdracht Uitleg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/HTML/003 Tabellen/Opdracht Uitleg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/HTML/003 Tabellen/Tabellen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/HTML/004 Website vanaf Schets/Home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/HTML/004 Website vanaf Schets/WebsiteSchets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/HTML/004 Website vanaf Schets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Portfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/binturongs/binturong1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/binturongs/binturong2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/binturongs/binturong3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/binturongs/binturong4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/binturongs/binturong5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/binturongs/binturong6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/binturongs/binturong7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/binturongs/binturong8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/binturongs/binturong9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/desk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/wisterias/wisteria1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/wisterias/wisteria2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/wisterias/wisteria3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/wisterias/wisteria4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/wisterias/wisteria5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/zwemclubs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/layout/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/opdracht.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/php1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/project.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/.idea/TEST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/Database/Db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/Login/authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/Login/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/Login/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/Login/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/Login/profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/Login/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/PHP Login logout example with session/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/PHP Login logout example with session/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/PHP Login logout example with session/header2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/PHP Login logout example with session/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/PHP Login logout example with session/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/PHP Login logout example with session/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/PHP Login logout example with session/page2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/Public/bouquets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/Public/flowerpowerCapture/Capture.1PNG.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/Public/flowerpowerCapture/Capture.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/Public/flowerpowerCapture/Capture3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/Public/flowerpowerCapture/Capture4.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/Public/flowerpowerCapture/Capture5.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/Public/flowerpowerCapture/Capture6.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/Public/flowerpowerCapture/Capture7.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/Public/flowerpowerCapture/Capture8.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/Public/layout/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/Public/layout/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/Public/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/Style/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/create-image-upload-and-store-in-db/.idea/create-image-upload-and-store-in-db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/create-live-editable-table-with-jquery-php-and-mysql/.idea/create-live-editable-table-with-jquery-php-and-mysql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/create-login-form-with-mysql-and-php/.idea/TEST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/create-registration-form-with-mysql-and-php/.idea/create-registration-form-with-mysql-and-php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/phpcrud/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/phpcrud/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/phpcrud/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/phpcrud/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/phpcrud/read.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/phpcrud/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/phpcrud/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/.idea/responsive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/config/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/controllers/bouquetController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/controllers/cartController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/img/bruidsboeket-herfst.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/img/bruidsboeket-lily-van-de-vallei.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/img/bruidsboeket-paarse-passie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/img/bruidsboeket-zomer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/img/kantoorplant-bamboo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/img/kantoorplant-cactus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/img/kantoorplant-perennial.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/img/kantoorplant-sansevieria.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/img/roman-kraft-_oH66az_yug-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/img/roman-kraft-_oH66az_yug-unsplash2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/img/rouwboeket-eenvoudig.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/img/rouwboeket-paars-blauw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/img/rouwboeket-roze.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/img/rouwboeket-wit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/img/terracotta-wall-plaster-high-resolution-closeup-texture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/public/layout/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/public/layout/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/responsive/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-1/.idea/opdracht-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-1/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-2/.idea/opdracht-2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-2/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-3/.idea/opdracht-3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-3/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BAP/opdracht-3/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP2020-OKT/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP2020-OKT/.idea/PHP2020-OKT.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP2020-OKT/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP2020-OKT/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP2020-OKT/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP2020-OKT/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP2020-OKT/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP2020-OKT/.idea/webServers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP2020-OKT/001/Helloworld/.idea/Helloworld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP2020-OKT/001/Helloworld/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP2020-OKT/001/Helloworld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP2020-OKT/001/Helloworld/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP2020-OKT/001/Helloworld/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP2020-OKT/001/Helloworld/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutMe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../FILES/HTML/001 Ontwikkelomgeving/Opdracht Uitleg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/Public/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/lib/Db.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cartbaan-hunt-en-lauda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower/.idea/flowerPower.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower/layout/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower/layout/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower/lib/Db.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower/note" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower1.0/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower1.0/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower1.0/.idea/flowerPower1.0.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower1.0/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower1.0/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower1.0/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower1.0/ERD/0.5_flowerpower_erd.mwb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower1.0/ERD/0.5_flowerpower_sql_script_execution.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower1.0/ERD/1.0_flowerpower_erd.mwb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower1.0/ERD/1.0_flowerpower_erd.mwb.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower1.0/ERD/1.0_flowerpower_sqlscript.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower1.0/ERD/1.0_flowerpower_sqlscript.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower1.0/ERD/2.0_flowerpower_erd.mwb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower1.0/ERD/2.0_flowerpower_fowardEngineer.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower1.0/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower1.0/layout/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower1.0/layout/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower1.0/lib/Db.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower1.0/note" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower2.0/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower2.0/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower2.0/.idea/flowerPower2.0.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower2.0/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower2.0/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower2.0/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower2.0/ERD/2.0_flowerpower_erd.mwb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower2.0/ERD/2.0_flowerpower_fowardEngineer.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower2.0/FlowerPower2.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower2.0/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower2.0/layout/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower2.0/layout/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower2.0/lib/Db.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowerPower2.0/note" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kartbaan_test/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kartbaan_test/navbar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kartbaan_test/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monkeysBusiness" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1nflkqd7203YjdywZE052eKpryT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\Portfolio\public\PHP\img" />
+      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\Portfolio\public\PHP" />
+      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\Portfolio\img\plants" />
+      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\Portfolio\img" />
+      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\Portfolio\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\Portfolio\public" />
+      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\Portfolio\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a855df82-4a84-41c8-a971-3ef3900f4f40" name="Default Changelist" comment="" />
+      <created>1611789173282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611789173282</updated>
+      <workItem from="1611789175169" duration="3396000" />
+      <workItem from="1611823462658" duration="1125000" />
+      <workItem from="1621202569893" duration="664000" />
+      <workItem from="1621203273861" duration="3365000" />
+      <workItem from="1623171588144" duration="21118000" />
+      <workItem from="1623250161027" duration="1782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="220" y="242" key="NewPhpClassDialog" timestamp="1623173122406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="220" y="242" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623173122406" />
+    <state x="1274" y="446" key="NewPhpFileDialog" timestamp="1623209534654">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1274" y="446" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623209534654" />
+  </component>
+</project>

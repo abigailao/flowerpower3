@@ -7,7 +7,7 @@ include "../public/layout/header.php";
                 <h2></h2>
             </div>
 
-            <div class='col-md-6' >
+            <div class='col-md-6'>
                 <!--Form-->
                 <form method='post' action=''>
 
@@ -54,6 +54,9 @@ include "../public/layout/header.php";
                     </div>
                     <button style="background-color: #c45832;" type="submit" class="btn btn-primary mt-2 border-0">Verzenden</button>
                 </form>
+            </div>
+            <div class='col-md-6'>
+                <a href="https://www.savatarian.com/abigail/Portfolio/public/index.php"><img src="../img/desk-contact.jpg" class="d-block w-100" alt="..."></a>
             </div>
 
 
