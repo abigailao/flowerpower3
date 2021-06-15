@@ -30,7 +30,6 @@ if (isset($_REQUEST['remove'])) {
             <tbody>
 
             <?php
-            //        if ($_SESSION["cart_item"] != null) {
             if (isset($_SESSION["cart_item"])){
             foreach ($_SESSION["cart_item"] as $cart_item) {
                 ?>
@@ -73,18 +72,14 @@ if (isset($_REQUEST['remove'])) {
                     <textarea class="form-control" name="text" id="text" required="required" maxlength="250" placeholder="Tekst..."></textarea>
                 </div>
                 <button style="background-color: #c45832;" type="submit" class="btn btn-primary mt-2 border-0">Bestelling Plaatsen</button>
-            </div>
-        </div>
-        <?php
-        } else {
+                </div>
+                <?php
+            } else {
+                ?>
+                <div>Je winkelwagen is leeg!</div>
+                <?php
+            }
             ?>
-            <div>Je winkelwagen is leeg!</div>
-            <?php
-
-        }
-        ?>
-
-    </div>
 <?php
 include("../public/layout/footer.php");
 ?>

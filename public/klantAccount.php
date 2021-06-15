@@ -77,13 +77,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 }
                 ?>
 
-<!--                <div class="form-group">-->
-<!--                    <label for="fname">Voornaam</label>-->
-<!--                    <input type="text" class="form-control" name="fname" id="fname" required="required" maxlength="80" placeholder='--><//= $fname ?><!--'>-->
-<!--                </div>-->
+
             <div class="form-group">
                 <label for="fname">Voornaam</label>
-                <input type="text" class="form-control" name="fname" id="fname" required="required" maxlength="80" placeholder="Jann">
+                <input type="text" class="form-control" name="fname" id="fname" required="required" maxlength="80" placeholder="">
             </div>
             <div class="form-group">
                 <label for="fname">Tussenvoegsel</label>
@@ -91,37 +88,36 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             </div>
             <div class="form-group">
                 <label for="lname">Achternaam</label>
-                <input type="text" class="form-control" name="lname" id="lname" required="required" maxlength="80" placeholder="Alleman">
+                <input type="text" class="form-control" name="lname" id="lname" required="required" maxlength="80" placeholder="">
             </div>
             <div class="form-group">
                 <label for="lname">Adres</label>
-                <input type="text" class="form-control" name="adres" id="adres" required="required" maxlength="80" placeholder="Kipperstraat">
+                <input type="text" class="form-control" name="adres" id="adres" required="required" maxlength="80" placeholder="">
             </div>
             <div class="form-group">
                 <label for="lname">Huisnummer</label>
-                <input type="number" class="form-control" name="hnumber" id="hnumber" required="required" maxlength="80" placeholder="27">
+                <input type="number" class="form-control" name="hnumber" id="hnumber" required="required" maxlength="80" placeholder="">
             </div>
             <div class="form-group">
                 <label for="lname">Postcode</label>
-                <input type="text" class="form-control" name="zipcode" id="zipcode" required="required" maxlength="80" placeholder="4222BF">
+                <input type="text" class="form-control" name="zipcode" id="zipcode" required="required" maxlength="80" placeholder="">
             </div>
             <div class="form-group">
                 <label for="lname">Plaats</label>
-                <input type="text" class="form-control" name="plaats" id="plaats" required="required" maxlength="80" placeholder="Groningen">
+                <input type="text" class="form-control" name="plaats" id="plaats" required="required" maxlength="80" placeholder="">
             </div>
             <div class="form-group">
                 <label for="email">Email address</label>
-                <input type="email" class="form-control" name="email" id="email" required="required" maxlength="80" placeholder="jan@example.nl">
+                <input type="email" class="form-control" name="email" id="email" required="required" maxlength="80" placeholder="">
             </div>
             <div class="form-group">
                 <label for="lname">Telefoon</label>
-                <input type="number" class="form-control" name="phone" id="phone"  maxlength="80" placeholder="0645667787">
+                <input type="number" class="form-control" name="phone" id="phone"  maxlength="80" placeholder="">
             </div>
             <div class="form-group">
                 <label for="password">Wachtwoord</label>
-                <input type="password" class="form-control" name="password" id="password" required="required" maxlength="80" placeholder="****">
+                <input type="password" class="form-control" name="password" id="password" required="required" maxlength="80" placeholder="">
             </div>
-            <!--                <button type="submit" name="btnsignup" class="btnForm">Submit</button>-->
             <button style="background-color: #c45832;" type="submit" class="btn btn-primary mt-2 border-0">Update</button>
             </form>
         </div>

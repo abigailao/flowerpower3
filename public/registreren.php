@@ -77,27 +77,20 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 ?>
 
                 <div class="form-group">
-<!--                    <label for="fname">Voornaam:</label>-->
                     <input type="text" class="form-control" name="fname" id="fname" required="required" maxlength="80" placeholder="Voornaam">
                 </div>
                 <div class="form-group">
-<!--                    <label for="lname">Achternaam:</label>-->
                     <input type="text" class="form-control" name="lname" id="lname" required="required" maxlength="80" placeholder="Achternaam">
                 </div>
                 <div class="form-group">
-<!--                    <label for="email">Email address:</label>-->
                     <input type="email" class="form-control" name="email" id="email" required="required" maxlength="80" placeholder="Email address">
                 </div>
                 <div class="form-group">
-<!--                    <label for="password">Wachtwoord:</label>-->
                     <input type="password" class="form-control" name="password" id="password" required="required" maxlength="80" placeholder="Wachtwoord">
                 </div>
                 <div class="form-group">
-<!--                    <label for="pwd">Wachtwoord herhalen:</label>-->
                     <input type="password" class="form-control" name="confirmpassword" id="confirmpassword" required="required" maxlength="80" placeholder="Wachtwoord herhalen">
                 </div>
-
-<!--                <button type="submit" name="btnsignup" class="btnForm">Submit</button>-->
                 <button style="background-color: #c45832;" type="submit" class="btn btn-primary mt-2 border-0">Submit</button>
             </form>
         </div>

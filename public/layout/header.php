@@ -63,8 +63,7 @@ session_start();
             <?php
         } else {
 
-//            if (isset($_SESSION['role'])) {
-//                if ($_SESSION['role'] == 3 || $_SESSION['role'] == 1) {
+
               if (isset($_SESSION['role'])) {
                   if ($_SESSION['role'] == "medewerker") {
 
@@ -84,7 +83,6 @@ session_start();
                 </ul>
                 <?php
                 }
-//                if($_SESSION['role'] == 1 ){
                   elseif($_SESSION['role'] == "admin" ){
                     ?>
                     <ul class="navbar-nav mr-auto">
@@ -137,7 +135,6 @@ session_start();
             </ul>
             <?php
         } ?>
-
     </div>
 </nav>
 <div class="container">

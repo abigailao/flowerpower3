@@ -30,7 +30,7 @@ if (isset($_GET['delete'])) {
 
 ?>
 <div class="container home">
-<!--    <h2>Medewerker Beheer</h2>-->
+
     <!--Banner-->
     <div class="jumbotron p-3 rounded text-light mb-2">
         <h1 class="display-4">Medewerker Beheer</h1>

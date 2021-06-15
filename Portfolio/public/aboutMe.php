@@ -15,7 +15,7 @@ include "layout/header.php";
                 <div class="col-12">Toen ik aan de opleiding begon had ik geen verstand van programmeertalen. Dit maakte alles erg spannend, maar door te oefenen en met behulp van aardige klasgenoten en geduldige docenten, lukte het om alles bij te houden. Het mogen bepalen van je eigen werktempo heeft hierbij geholpen. Wat ik naast kennis van programmeertalen hieruit zal meenemen is hoe belangrijk het is om goed te plannen en de duur van mijn werkwijze in te plannen. </div>
             <div class="row">
                 <h3>Toekomstplannen</h3>
-                <div class="col-12">Ondanks dat ik de opleiding als erg leuk en leerzaam heb ervaren, kwam ik tot de conclusie dat ik nog niet zeker ben of ik een baan in deze economische sector wil. Na een lange overweging heb ik besloten om hierna een HBO opleiding te gaan volgen die hier mogelijk niet bij zal aansluiten.</div>
+                <div class="col-12">De opleiding heb ik als erg leuk en leerzaam ervaren. Wanneer mijn studie is afgerond ben ik van plan om een hbo-opleiding te volgen. Ik heb besloten om als eerst een tussenjaar te nemen.</div>
 
         </div>
 

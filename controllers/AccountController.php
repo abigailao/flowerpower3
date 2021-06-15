@@ -89,21 +89,6 @@ class accountController
         return $accounts;
     }
 
-//    public function getCategory2()
-//    {
-//        $stm = $this->connection->query("SELECT * from product where categorie_idCategorie = 2");
-//        $category2 = $stm->fetchAll(PDO::FETCH_OBJ);
-//
-//        return $category2;
-//    }
-//
-//    public function getCategory3()
-//    {
-//        $stm = $this->connection->query("SELECT * from product where categorie_idCategorie = 3");
-//        $category3 = $stm->fetchAll(PDO::FETCH_OBJ);
-//
-//        return $category3;
-//    }
     public function getCustomer($id)
     {
         $sql = "SELECT * from klant WHERE idKlant=:id";

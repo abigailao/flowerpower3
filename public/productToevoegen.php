@@ -100,9 +100,6 @@ include "../controllers/BouquetController.php";
 
                     <input type="file" name="fileToUpload" id="fileToUpload" formaction="upload.php">
                 </div>
-
-
-                <!--                <button type="submit" name="btnsignup" class="btnForm">Submit</button>-->
                 <button style="background-color: #c45832;" type="submit" value="Upload Image" name="btnsignup"
                         class="btn btn-primary mt-2 border-0">Submit
                 </button>

@@ -21,6 +21,39 @@
   <component name="ChangeListManager">
     <list default="true" id="074f6639-ba93-444d-a44d-d683e2bdb5f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/img/Untitled.pdn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/img/circle.pdn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/img/flowerPowerVideo/2021-03-09 04-24-51.mkv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/img/flowerPowerVideo/AbigailOpleverenV1FlowerPower.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/img/flowerPowerVideo/Acceptatietest Abigail (2021-06-01 at 01_41 GMT-7) (1).mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/img/flowerPowerVideo/functionaliteiten test.mkv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/note" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/public/aboutMe.php" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/public/aboutMe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/public/kerntaak3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/public/layout/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/public/layout/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/public/php1.php" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/public/php1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/public/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/db.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/db.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/AccountController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/AccountController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/RegisterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note" beforeDir="false" afterPath="$PROJECT_DIR$/note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bouquets.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/bouquets.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bouquetsLijst.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/bouquetsLijst.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bruiloft.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/bruiloft.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/cart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/kantoor.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/kantoor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/klantAccount.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/klantAccount.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/layout/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/layout/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/loginMedewerker.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/medewerkerBeheer.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/medewerkerBeheer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/orderDetails.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/orderDetails.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/productToevoegen.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/productToevoegen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/productWijzigen.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/productWijzigen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/registreren.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/registreren.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/rouwbloemen.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/rouwbloemen.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,14 +81,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\flowerpower3\Portfolio\img\flowerPowerVideo" />
-      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\flowerpower3\Portfolio\img" />
-      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\flowerpower3\img" />
-      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\flowerPower2.1.1\flowerPower2.1\public" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\flowerpower3\Portfolio\public" />
+      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\flowerpower3\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\flowerpower3\Portfolio\css" />
+      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\flowerpower3\Portfolio" />
+      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\flowerpower3\Portfolio\img\flowerPowerVideo" />
+      <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\flowerpower3\Portfolio\img" />
       <recent name="C:\Users\guest0\OneDrive\Desktop\PHP-BAP\flowerpower3\img" />
     </key>
   </component>
@@ -82,7 +116,9 @@
       <workItem from="1623317749194" duration="3183000" />
       <workItem from="1623597113701" duration="983000" />
       <workItem from="1623667596250" duration="1554000" />
-      <workItem from="1623669277014" duration="6223000" />
+      <workItem from="1623669277014" duration="6817000" />
+      <workItem from="1623705889105" duration="887000" />
+      <workItem from="1623756885767" duration="2968000" />
     </task>
     <servers />
   </component>
@@ -102,10 +138,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1195" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623321052321">
+    <state x="1195" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623759803513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1195" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1623321052321" />
+    <state x="1195" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1623759803513" />
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1623279110180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

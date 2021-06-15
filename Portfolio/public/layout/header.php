@@ -32,7 +32,7 @@
 
 
     <!-- Custom styles for this template -->
-    <link href="styles.css" rel="stylesheet">
+    <link href="/Portfolio/css/styles.css" rel="stylesheet">
 </head>
 <body class="d-flex h-100 text-center text-dark bg-dark">
 
@@ -64,7 +64,6 @@
                     <li><a class="dropdown-item" href="kerntaak1-4.php">kerntaak 1-4</a></li>
                     <li><a class="dropdown-item" href="kerntaak1-5.php">kerntaak 1-5</a></li>
                     <li><a class="dropdown-item" href="kerntaak2.php">kerntaak 2</a></li>
-<!--                    <li><a class="dropdown-item" href="kerntaak3.php">kerntaak 3</a></li>-->
                     <li><a class="dropdown-item" href="kerntaken.php">Kerntaak planning</a></li>
                 </ul>
             </nav>

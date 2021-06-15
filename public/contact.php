@@ -37,19 +37,15 @@ include "../public/layout/header.php";
                     ?>
 
                     <div class="form-group">
-                        <!--                    <label for="fname">Voornaam:</label>-->
                         <input type="email" class="form-control" name="email" id="email" required="required" placeholder="email@voorbeeld.nl">
                     </div>
                     <div class="form-group">
-                        <!--                    <label for="lname">Achternaam:</label>-->
                         <input type="text" class="form-control" name="naam" id="naam" required="required" placeholder="Naam">
                     </div>
                     <div class="form-group">
-                        <!--                    <label for="onderwerp">Onderwerp:</label>-->
                         <input type="text" class="form-control" name="onderwerp" id="onderwerp" required="required" maxlength="80" placeholder="onderwerp">
                     </div>
                     <div class="form-group">
-                        <!--                    <label for="password">Wachtwoord:</label>-->
                         <textarea class="form-control" name="text" id="text" required="required" maxlength="250" placeholder="Uw contact reden"></textarea>
                     </div>
                     <button style="background-color: #c45832;" type="submit" class="btn btn-primary mt-2 border-0">Verzenden</button>

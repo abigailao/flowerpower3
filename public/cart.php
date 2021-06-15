@@ -5,7 +5,6 @@ include "../public/layout/header.php";
 require_once("../controllers/CartController.php");
 
 $cart = new CartController();
-//$all_cart = $cart->getCart();
 
 if (isset($_REQUEST['remove'])) {
     $cart->removeFromCart($_REQUEST['id']);
@@ -30,14 +29,12 @@ if (isset($_REQUEST['remove'])) {
             <tbody>
 
             <?php
-            //        if ($_SESSION["cart_item"] != null) {
             if (isset($_SESSION["cart_item"])){
             foreach ($_SESSION["cart_item"] as $cart_item) {
                 ?>
                 <tr>
                     <th scope="row"><?= $cart_item['id'] ?></th>
                     <td><?= $cart_item['product'] ?></td>
-                    <!--                    <td>--><?//= $cart_item['amount'] ?><!--</td>-->
                     <td class="col-4 mb-2">
                         <input type="number" class="form-control" name="amount" placeholder="<?= $cart_item['amount'] ?>">
                     </td>

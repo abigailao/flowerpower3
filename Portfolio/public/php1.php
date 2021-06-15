@@ -17,7 +17,7 @@ include "layout/header.php";
             border: green solid 5px;
         }
     </style>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="../css/styles.css">
 </head>
 <body>
 <div class="container-sm">

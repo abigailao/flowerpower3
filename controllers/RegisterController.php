@@ -91,7 +91,6 @@ class registerController
     {
         try {
 
-//            $insertSQL = "INSERT INTO medewerker(voornaam,achternaam,email,wachtwoord, role_id) values(:fname,:lname,:email,:password, 3)";
             $insertSQL = "INSERT INTO medewerker(voornaam,achternaam,email,wachtwoord ) values(:fname,:lname,:email,:password)";
 
             $stmt = $this->connection->prepare($insertSQL);

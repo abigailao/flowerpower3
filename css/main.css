@@ -22,6 +22,3 @@ a:hover {
 a:active {
     text-decoration: none;
 }
-
-/*.form-group .required label.norequire { font-weight:normal;  }*/
-/*.form-group .required label.norequire:after { content:'';  }*/

@@ -11,7 +11,6 @@ $all_bouquets = $bouquets->getCategory1();
 $cart = new cartController();
 
 if (isset($_REQUEST['addToCart'])) {
-//    session_start();
 
     $cart->addToCart($_REQUEST['id'], $_POST['product'], $_POST['amount']);
 }
@@ -20,8 +19,7 @@ if (isset($_REQUEST['addToCart'])) {
     <div class="jumbotron p-3 rounded text-light mb-2 bg-warning">
         <h1 class="display-4">Boeketten voor een Bruiloft</h1>
         <p class="lead">Dit is de boeketten pagina. Hier kan je alle boeketten vinden die je nodig hebt!</p>
-<!--        <hr class="my-4">-->
-<!--        <p>We hebben alles in alle soorten en maten, veel plezier met kijken!</p>-->
+
     </div>
 
     <!--Boeketten-->
@@ -58,7 +56,6 @@ if ($all_bouquets != null) {
 
                             <!--new-->
                             <div class='product_overlay'>
-<!--                                <h2>Added to basket</h2>-->
                                 <i class='fa fa-check'></i>
                             </div>
                         </div>
